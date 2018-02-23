@@ -1,5 +1,5 @@
 def display_board
-  board = dispaly board
+  phrase = "A tic tac toe board"
   puts "  "   "  | "   "  | "   " "
   puts " ----------- "
   puts "  "   "  | "   "  | "   " "
